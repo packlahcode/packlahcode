@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology and always looking
 - **Hobbies**: When I'm not coding, I like to play musical instruments like the **piano**, **guitar**, and **drums** 🎶
 
 ### 🔧 Technologies & Skills
-- **Security Tools**: SIEM (Splunk, ELK, etc.), Firewalls, IDS/IPS, Vulnerability Assessment
+- **Security Tools**: SIEM (Wazuh, Splunk, etc.), Firewalls, IDS/IPS, Vulnerability Assessment
 - **Scripting**: Python, Bash, PowerShell, VBScript
 - **System Admin**: Linux, Windows Server, Networking, Automation, Monitoring
 - **Other Interests**: Cloud Security, Incident Response, Threat Hunting
