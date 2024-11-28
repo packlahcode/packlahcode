@@ -1,4 +1,4 @@
-# Hi there, I'm Packlahcode 👋
+# Hi there, I'm Packlah 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and always looking for ways to expand my knowledge and skillset. Currently, I'm focused on pursuing roles as a **Security Engineer** or **SIEM Engineer**, but I'm also quite adept at **System Administration** tasks. I enjoy learning new skills, especially in scripting and automation.
 
